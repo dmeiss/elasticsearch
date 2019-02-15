@@ -331,7 +331,7 @@ need to be visited to find the top N.
 [[fuzzy]]
 ==== Fuzzy queries
 
-The completion suggester also supports fuzzy queries - this means,
+The completion suggester also supports fuzzy queries - this means
 you can have a typo in your search and still get results back.
 
 [source,js]
